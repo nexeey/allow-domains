@@ -981,3 +981,4 @@ nftset=/openspeedtest.com/4#inet#fw4#vpn_domains
 nftset=/microsoft.com/4#inet#fw4#vpn_domains
 nftset=/outlook.com/4#inet#fw4#vpn_domains
 nftset=/xbox.com/4#inet#fw4#vpn_domains
+nftset=/duckduckgo.com/4#inet#fw4#vpn_domains
