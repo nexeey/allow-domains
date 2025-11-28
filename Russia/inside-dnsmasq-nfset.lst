@@ -985,3 +985,4 @@ nftset=/duckduckgo.com/4#inet#fw4#vpn_domains
 nftset=/playstation.com/4#inet#fw4#vpn_domains
 nftset=/paypal.com/4#inet#fw4#vpn_domains
 nftset=/365sms.org/4#inet#fw4#vpn_domains
+nftset=/365sms.com/4#inet#fw4#vpn_domains
