@@ -978,3 +978,4 @@ nftset=/videodelivery.net/4#inet#fw4#vpn_domains
 nftset=/warp.plus/4#inet#fw4#vpn_domains
 nftset=/workers.dev/4#inet#fw4#vpn_domains
 nftset=/openspeedtest.com/4#inet#fw4#vpn_domains
+nftset=/duckduckgo.com/4#inet#fw4#vpn_domains
