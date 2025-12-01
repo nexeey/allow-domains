@@ -986,3 +986,5 @@ nftset=/playstation.com/4#inet#fw4#vpn_domains
 nftset=/paypal.com/4#inet#fw4#vpn_domains
 nftset=/365sms.org/4#inet#fw4#vpn_domains
 nftset=/365sms.com/4#inet#fw4#vpn_domains
+nftset=/gemini.google.com/4#inet#fw4#vpn_domains
+nftset=/majors.im/4#inet#fw4#vpn_domains
