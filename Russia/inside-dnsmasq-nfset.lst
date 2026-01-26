@@ -2396,3 +2396,4 @@ nftset=/searx.nixnet.services/4#inet#fw4#vpn_domains
 nftset=/searx.roflcopter.fr/4#inet#fw4#vpn_domains
 nftset=/searx.ru/4#inet#fw4#vpn_domains
 nftset=/searx.zapashcanon.fr/4#inet#fw4#vpn_domains
+nftset=/openspeedtest.com/4#inet#fw4#vpn_domains
