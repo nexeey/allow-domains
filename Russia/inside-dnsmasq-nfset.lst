@@ -1055,4 +1055,4 @@ nftset=/ipinfo.io/4#inet#fw4#vpn_domains
 nftset=/ip.me/4#inet#fw4#vpn_domains
 nftset=/ipleak.net/4#inet#fw4#vpn_domains
 nftset=/dnsleaktest.com/4#inet#fw4#vpn_domains
-nftset=/ipleaks.io/4#inet#fw4#vpn_domains
+nftset=/browserleaks.com//4#inet#fw4#vpn_domains
