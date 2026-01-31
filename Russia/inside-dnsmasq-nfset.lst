@@ -1054,3 +1054,4 @@ nftset=/gfx.ms/4#inet#fw4#vpn_domains
 nftset=/azure.com/4#inet#fw4#vpn_domains
 nftset=/msecnd.net/4#inet#fw4#vpn_domains
 nftset=/eloshapes.com/4#inet#fw4#vpn_domains
+nftset=/dnscrypt.info/4#inet#fw4#vpn_domains
